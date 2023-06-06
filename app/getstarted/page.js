@@ -1,8 +1,8 @@
 "use client";
 
 import React, {useState} from "react";
-import ApplicantInfo from "./applicantInfo";
-import RecruiterInfo from "./recruiterInfo";
+import ApplicantInfo from "./ApplicantInfo";
+import RecruiterInfo from "./RecruiterInfo";
 import SignUpForm from "./SignUpForm";
 
 export default function GetStarted() {
